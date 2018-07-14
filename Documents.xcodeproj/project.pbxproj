@@ -109,7 +109,6 @@
 			children = (
 				8B9B521B20D2E3E20071EEEE /* Controller */,
 				8B9B521A20D2E3DD0071EEEE /* Model */,
-				8B9B521920D2E3D70071EEEE /* View */,
 				8B1BEA7120D1EF2B00DA51BB /* AppDelegate.swift */,
 				8B1BEA7B20D1EF2C00DA51BB /* Assets.xcassets */,
 				8B1BEA7D20D1EF2C00DA51BB /* LaunchScreen.storyboard */,
@@ -137,13 +136,6 @@
 				8B1BEA9620D1EF2C00DA51BB /* Info.plist */,
 			);
 			path = DocumentsUITests;
-			sourceTree = "<group>";
-		};
-		8B9B521920D2E3D70071EEEE /* View */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = View;
 			sourceTree = "<group>";
 		};
 		8B9B521A20D2E3DD0071EEEE /* Model */ = {
